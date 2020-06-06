@@ -1,4 +1,8 @@
 # Codecademy veneer project
+# Further work:
+# Client available cash, affected by buying and selling.
+# Client wishlists by artist, or title, and alerts, when things are listed
+# Overall art database, splitting into universe of works, of which veneer listings are a subset
 
 class Art:
 	# artist=str, title=str, medium=str, year=int, owner=Client
